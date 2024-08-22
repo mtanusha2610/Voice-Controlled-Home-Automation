@@ -9,7 +9,7 @@ establish a connection between the microcontroller and the home appliances. The
 microcontroller sends signals to the appliances to turn them on or off based on the
 voice commands received
 
-# COMPONENTS REQUIRED:-
+#COMPONENTS REQUIRED:-
 • Arduino UNO
 • HC-05 Bluetooth Module 
 • 2-channel Relay Module(5v) 
